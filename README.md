@@ -1,14 +1,12 @@
 # WeatherIcons
+Icons provided by:
 
 VClouds Weather Icons
 by VClouds
-Watch
-Customization / Icons / Other
-These icons were created for my Rainmeter weather skin vclouds.deviantart.com/art/VCl… and are numbered according to weather.com
+VClouds Weather Icons©
+Created and copyrighted© by VClouds - http://vclouds.deviantart.com/
 
---Important!--
-The icons are free to use for Non-Commercial use. 
-If you use these icons with your Non-Commercial work please credit me and put a link leading back to this page.
+The icons are free to use for Non-Commercial use, but If you use want to use it with your art please credit me and put a link leading back to the icons DA page - http://vclouds.deviantart.com/gallery/#/d2ynulp
 
-***Not to be used for commercial use without permission! 
-If you want to buy the icons for commercial use --> please send me a note (Go here and click the 'Send a Note' button on the top right)***
+*** Not to be used for commercial use without permission! 
+if you want to buy the icons for commercial use please send me a note - http://vclouds.deviantart.com/ ***
